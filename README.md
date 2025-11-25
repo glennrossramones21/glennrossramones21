@@ -1,4 +1,4 @@
-# 👋 Hi there! I am **Glenn Ross M. Ramones**
+#  Hi there! I am **Glenn Ross M. Ramones**
 
 🎓 **2nd Year BS Information Technology Student**
 New Era University — Quezon City
@@ -14,3 +14,19 @@ New Era University — Quezon City
 ---
 
 ## 🛠️ Skills & Attributes
+
+**Programming Languages:**
+`Python` · `JavaScript` · `Java` · `C++`
+
+**Databases:**
+`IBM DB2 Cloud`
+
+**Frameworks & Tools:**
+`Lucidchart` · `Canva Education` · `Obsidian`
+
+**DevTools:**
+`Visual Studio Code` · `Microsoft Office`
+
+---
+
+*Thanks for visiting my profile!*
