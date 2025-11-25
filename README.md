@@ -14,7 +14,7 @@ New Era University — Quezon City
 ---
 
 ## 🛠️ Skills & Attributes
-
+## 🛠 Tech Stack
 **Programming Languages:**
 `Python` · `JavaScript` · `Java` · `C++`
 
@@ -26,6 +26,13 @@ New Era University — Quezon City
 
 **DevTools:**
 `Visual Studio Code` · `Microsoft Office`
+
+## 🚀 Key Attributes
+- 💡 **Problem Solver** — Turns challenges into solutions  
+- ⚙️ **Tech-Driven** — Passionate about learning and building with technology  
+- 🧠 **Continuous Learner** — Always improving skills and exploring new tools  
+- 🔧 **Adaptable** — Quickly learns new frameworks and technologies  
+- 🌱 **Growth-Oriented** — Focused on personal and professional development  
 
 ---
 
