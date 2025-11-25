@@ -13,7 +13,7 @@ New Era University — Quezon City
 
 ---
 
-## 🛠️ Skills & Attributes
+# 🛠️ Skills & Attributes
 ## 🛠 Tech Stack
 **Programming Languages:**
 `Python` · `JavaScript` · `Java` · `C++`
