@@ -1,4 +1,4 @@
-#Hi there! I am **Glenn Ross M. Ramones**
+# Hi there! I am **Glenn Ross M. Ramones**
 
 🎓 **2nd Year BS Information Technology Student**
 New Era University — Quezon City
