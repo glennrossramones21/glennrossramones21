@@ -22,10 +22,10 @@ New Era University — Quezon City
 `IBM DB2 Cloud`
 
 **Frameworks & Tools:**
-`Lucidchart` · `Canva Education` · `Obsidian`
+`Lucidchart` · `Canva Education` · `VS Code`
 
-**DevTools:**
-`Visual Studio Code` · `Microsoft Office`
+**Other:**
+`Microsoft Office`
 
 ## 🚀 Key Attributes
 - 💡 **Problem Solver** — Turns challenges into solutions  
