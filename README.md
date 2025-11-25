@@ -1,31 +1,46 @@
-Glenn Ross M. Ramones
+# Hi there, I'm <Your Name> 👋
 
-🎓Education: 2nd Year BS Information Technology
-New Era University, Quezon City
+## 🚀 About Me
+- 💻 I’m a <your role: e.g., Full-Stack Developer / Data Scientist / Student>
+- 🎯 Currently working on: <current project or goal>
+- 🌱 Learning: <technologies>
+- 🤝 Open to collaborating on: <project types>
+- 📫 How to reach me: <email or social links>
 
-🏅Certifications: SQL and Relational Databases 101 (IBM DB0101EN)https://courses.cognitiveclass.ai/certificates/3c4fa8f880f14c1291fec0611abcca5f
+---
 
-📚Skills and Attributes
+## 🛠️ Tech Stack
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" />
 
-Technical Skills:
-Core Languages - JavaScript (ES6+ features), Python, SQL (basic queries/joins), HTML5, CSS3
+**Frameworks & Libraries:**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,flask,django" />
 
-Frontend - React.js (Functional Components, basic Hooks), Vue.js, Bootstrap or Tailwind CSS
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 
-Backend/Runtime - Node.js (Express), Python (Flask), RESTful API Design
-Databases - PostgreSQL, MySQL, MongoDB (basic CRUD operations)
+---
 
-Version Control - Git (Cloning, Committing, Branching, Merging), GitHub workflow
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)
 
-Development Tools - Terminal/Command Line proficiency, VS Code (or similar IDE)
+---
 
-Attributes:
-Problem-Solving: Ability to effectively debug and resolve code errors.
+## 🌟 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| ⭐ **Project 1** | Short description | React, Node.js |
+| ⭐ **Project 2** | Short description | Python, Flask |
+| ⭐ **Project 3** | Short description | C++, Algorithms |
 
-Documentation: Skill in writing clear and concise code comments and basic ReadMe files.
+---
 
-Team Collaboration: Comfortable using Git/GitHub for teamwork (Pull Requests, Issue Tracking).
+## ✨ Fun Fact
+<Something interesting about you>
 
-Learning Agility: Demonstrates a quick ability to pick up new tools and libraries.
+---
 
-Time Management: Capable of managing personal timelines for project completion.
+## 🧩 Profile Visitors
+![Visitors](https://komarev.com/ghpvc/?username=<your-username>&color=blue)
+
