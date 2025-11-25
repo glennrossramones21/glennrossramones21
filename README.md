@@ -1,27 +1,36 @@
-# Hi there!, I'm Glenn Ross M. Ramones
+# 👋 Hi there! I am **Glenn Ross M. Ramones**
 
-## 🚀 About Me
-
-I'm a creator, builder, and tech enthusiast who loves automation, AI tools, and making ideas come to life. I enjoy exploring software, creating digital assets, and improving workflows.
-
-## 🧰 Tech Stack
-
-* **Languages:** JavaScript, Python, SQL
-* **Tools:** Git, VS Code, Postman
-* **Interests:** Automation, AI-assisted development, content creation
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
-
-## 🔗 Connect With Me
-
-* **Instagram:** [https://instagram.com/YOUR_HANDLE](https://instagram.com/YOUR_HANDLE)
-* **LinkedIn:** [https://linkedin.com/in/YOUR_HANDLE](https://linkedin.com/in/YOUR_HANDLE)
-* **Portfolio:** https://YOUR_PORTFOLIO_LINK
+🎓 **2nd Year BS Information Technology Student**
+New Era University — Quezon City
 
 ---
 
-*Thanks for visiting my profile!*
+## 📜 Certifications
+
+- **SQL and Relational Databases 101 (DB0101EN)** — IBM via Cognitive Class
+  *View Certificate* (https://courses.cognitiveclass.ai/certificates/3c4fa8f880f14c1291fec0611abcca5f
+)
+
+---
+
+## 🛠️ Skills & Attributes
+
+### **Technical Skills**
+- **Java** — Basic to intermediate; able to build simple applications or system features
+- **HTML / CSS** — Can create structured, clean, and responsive web pages
+- **PHP** — Able to build simple backend logic and connect to databases
+- **SQL** — Knowledgeable in writing queries and managing relational databases
+- **Canva Design** — Creates clean, simple UI mockups and visual system designs
+
+---
+
+### **Attributes**
+- **Fast Learner** — Quickly adapts to new tools and project requirements
+- **Detail-Oriented** — Produces clean code and organized outputs
+- **Problem Solver** — Analyzes logic issues and provides effective solutions
+- **Team Player** — Collaborates well in groups
+- **Creative** — Strong in UI layout and design using Canva
+
+---
+
+✨ _Thanks for visiting my profile!_
