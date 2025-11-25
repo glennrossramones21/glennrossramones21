@@ -8,8 +8,7 @@ New Era University — Quezon City
 ## 📜 Certifications
 
 - **SQL and Relational Databases 101 (DB0101EN)** — IBM via Cognitive Class
-  *View Certificate* (https://courses.cognitiveclass.ai/certificates/3c4fa8f880f14c1291fec0611abcca5f
-)
+  [View Certificate] (https://courses.cognitiveclass.ai/certificates/3c4fa8f880f14c1291fec0611abcca5f)
 
 ---
 
