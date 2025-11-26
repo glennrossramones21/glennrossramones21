@@ -28,11 +28,11 @@ New Era University — Quezon City
 `Microsoft Office`
 
 ## 🚀 Key Attributes
-- 💡 **Problem Solver** — Turns challenges into solutions  
-- ⚙️ **Tech-Driven** — Passionate about learning and building with technology  
-- 🧠 **Continuous Learner** — Always improving skills and exploring new tools  
-- 🔧 **Adaptable** — Quickly learns new frameworks and technologies  
-- 🌱 **Growth-Oriented** — Focused on personal and professional development  
+-  **Problem Solver** — Turns challenges into solutions  
+-  **Tech-Driven** — Passionate about learning and building with technology  
+-  **Continuous Learner** — Always improving skills and exploring new tools  
+-  **Adaptable** — Quickly learns new frameworks and technologies  
+-  **Growth-Oriented** — Focused on personal and professional development  
 
 ---
 
