@@ -8,6 +8,7 @@ New Era University — Quezon City
 ## 📜 Certifications
 
 - **Oracle Data Platform 2025 Certified Foundations Associate**
+- 
   [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A0A649DABA791F0594A07E9147ED44A07A9FA5051FE8DB1EBC72A6281107AC75)
 
 - **Oracle Cloud Infrastructure (OCI) Foundations Associate**
