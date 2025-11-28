@@ -8,8 +8,8 @@ New Era University — Quezon City
 ## 📜 Certifications
 
 - **Oracle Cloud Infrastructure (OCI) Foundations Associate**
-  
-[View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A1AC30B380A7537DA225197C129C19AA6655CA8948747A2F885467FA4077321A)
+
+  [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A1AC30B380A7537DA225197C129C19AA6655CA8948747A2F885467FA4077321A)
   
 - **SQL and Relational Databases 101 (DB0101EN)** — IBM via Cognitive Class
 
